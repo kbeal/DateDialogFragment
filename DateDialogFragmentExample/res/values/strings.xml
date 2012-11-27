@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">DateDialogFragmentExampleActivity!</string>
+    <string name="app_name">DateDialogFragmentExample</string>
+    <string name="set_date">Set Date</string>
+    <string-array name="dates">
+        <item>01-01-11</item>
+        <item>02-01-11</item>
+        <item>03-01-11</item>
+        <item>04-01-11</item>
+        <item>05-01-11</item>
+        <item>06-01-11</item>
+        <item>07-01-11</item>
+        <item>08-01-11</item>
+        <item>09-01-11</item>
+        <item>10-01-11</item>
+        <item>11-01-11</item>
+        <item>12-01-11</item>
+    </string-array>
+    <string name="date_detail">Date Detail</string>
+
+</resources>

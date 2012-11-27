@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+	 android:id="@+id/short_date_text"
+	 android:layout_width="match_parent"
+	 android:layout_height="?android:attr/listPreferredItemHeight"
+	 android:layout_marginLeft="3dip"
+	 android:layout_marginRight="20dip"
+	 android:gravity="center"
+	 android:textColor="@android:color/primary_text_light"
+	 android:text="1/1/11"/>
